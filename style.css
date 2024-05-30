@@ -4,13 +4,13 @@ h1 {
 
 .container {
     background-color: rgb(255, 255, 255);
-    padding: 10px 0;
+    padding: 13px 0;
 }
 
 .marker {
     width: 200px;
     height: 25px;
-    margin: 10px auto;
+    margin: 20px auto;
 }
 
 .cap {
@@ -25,8 +25,7 @@ h1 {
     border-left: 10px double rgba(0, 0, 0, 0.75);
 }
 
-.cap,
-.sleeve {
+.cap,.sleeve {
     display: inline-block;
 }
 
